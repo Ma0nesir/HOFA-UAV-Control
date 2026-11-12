@@ -1,0 +1,19 @@
+# ROS 2 build artifacts
+/build/
+/install/
+/log/
+.colcon_*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# CSV logs and zip archives
+*.csv
+*.zip
+*.bag
