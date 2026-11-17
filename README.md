@@ -86,8 +86,8 @@ HOFA-UAV-Control/
 | --- | --- |
 | 操作系统 | Ubuntu 22.04 |
 | ROS 2 | Humble |
-| 飞控 | PX4 Autopilot 17 / SITL（作者确认） |
-| 仿真器 | Gazebo，具体版本待补充 |
+| 飞控 | PX4 Autopilot 17 / SITL |
+| 仿真器 | Gazebo|
 | 仿真机型 | `gz_x500` |
 | 通信桥接 | Micro XRCE-DDS Agent，UDP 8888 |
 | 地面站 | QGroundControl |
